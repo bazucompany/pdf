@@ -14,7 +14,7 @@
 	"require":
 	{
 		"gears/di": "*",
-		"gears/string": "^0.6.0",
+		"gears/string": "1.1.1",
 		"symfony/process": "5.*",
 		"symfony/filesystem": "5.*",
 		"jakoch/phantomjs-installer": "1.9.8"
@@ -26,7 +26,7 @@
 		"guzzlehttp/guzzle": "4.*",
 		"sgh/pdfbox": "dev-master",
 		"google/apiclient": "1.*",
-		"symfony/finder": "2.*"
+		"symfony/finder": "5.*"
 	},
 	"scripts":
 	{
